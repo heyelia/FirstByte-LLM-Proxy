@@ -1,0 +1,47 @@
+# bash
+.bash_history
+.local
+
+# Language: Python
+.coverage
+.cache
+.ipython
+.mypy_cache
+.pdbhistory
+.pytest_cache
+.python_history
+__pycache__
+.ruff_cache
+.python-version
+
+# MacOS
+.DS_Store
+
+# enviroment
+.env
+.env.local
+
+# virtualenv
+venv/
+
+# PyCharm editor settings
+.idea
+
+# Visual Studio Code
+/.vscode/
+/.vscode-server/
+/.gitconfig
+/.devcontainer
+
+# Logs
+*.log
+
+# Project
+elia_core.egg-info
+.venv
+credentials.json
+vertexai_credential.json
+token.json
+
+*.png
+**/*.png

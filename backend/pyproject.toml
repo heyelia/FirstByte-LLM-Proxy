@@ -1,0 +1,102 @@
+[project]
+name = "backend"
+version = "0.0.1"
+description = "Main repo of Phonema's platform backend"
+requires-python = ">=3.13.0"
+dependencies = [
+    "fastapi>=0.115.12",
+    "gunicorn>=23.0.0",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.5",
+    "openai>=1.78.0",
+    "pandas>=2.2.3",
+    "pydantic>=2.11.4",
+    "pytest>=8.3.5",
+    "python-dotenv>=1.1.0",
+    "tabulate>=0.9.0",
+    "uuid-utils>=0.10.0",
+    "uvicorn>=0.34.2",
+]
+
+[tool.uv]
+link-mode = "copy"
+no-cache = true
+dev-dependencies = [
+]
+
+[tool.uv.sources]
+pipecat-ai-flows = { git = "https://github.com/heyelia/pipecat-flows.git" }
+
+# https://docs.astral.sh/ruff/settings/
+[tool.ruff]
+exclude = ["frames_pb2.py"]
+extend-exclude = [
+  ".git",
+  ".pytest_cache",
+  ".ruff_cache",
+  "_",
+  ".venv",
+  ".github",
+  ".local",
+  ".mypy_cache",
+  ".cache",
+  ".vscode",
+  "venv*",
+  "doc",
+  "frames_pb2.py"
+]
+line-length = 120
+
+[tool.ruff.format]
+skip-magic-trailing-comma = true
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"
+
+# https://docs.astral.sh/ruff/rules/
+[tool.ruff.lint]
+select = [
+  "A",      # all flake8-builtins rules.
+  "B",      # all flake8-bugbear rules.
+  "E1",     # pycodestyle rules regarding whitespace.
+  "E4",     # pycodestyle rules regarding imports.
+  "E7",     # pycodestyle rules regarding good practices.
+  "E9",     # pycodestyle rules regarding io or syntax errors.
+  "F",      # all pyflakes rules.
+  "I",      # all isort rules.
+  "PLE",    # pylint rules regarding errors.
+  "PLW",    # pylint rules regarding warnings.
+  "RUF100", # unused-noqa                                 Unused noqa directive
+  "SIM",    # all of flake8-simplify rules.
+  "UP",     # all upgrade path rules.
+  "TID251", # banned-api                                  {name} is banned:
+  "W",      # all pycodestyle warnings.
+]
+ignore = [
+  "PLW0603", # global-statement                            Using the global statement to update {name} is discouraged
+]
+
+# https://docs.astral.sh/ruff/settings/#lint_logger-objects
+[tool.ruff.lint.per-file-ignores]
+# "__init__.py" = ["E402", "F401"]
+"frames_pb2.py" = ["I001", "UP009"]
+"base_output.py" = ["ALL"]
+"base_transport.py" = ["ALL"]
+"base_input.py" = ["ALL"]
+"pipecat_fastapi_websocket.py" = ["ALL"]
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+known-first-party = ["app", "tests"]
+split-on-trailing-comma = false
+
+[tool.ruff.lint.flake8-tidy-imports.banned-api]
+"uuid".msg = "Use 'import uuid_utils.compat as uuid' instead"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 20
+
+
+[tool.setuptools]
+py-modules = []
