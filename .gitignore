@@ -42,6 +42,3 @@ elia_core.egg-info
 credentials.json
 vertexai_credential.json
 token.json
-
-*.png
-**/*.png
