@@ -5,10 +5,11 @@ import time
 from datetime import datetime
 
 import dotenv
-import matplotlib.pyplot as plt
 import numpy as np
 import openai
 import pytest
+
+from plot_results import generate_cdf_chart
 
 dotenv.load_dotenv()
 
@@ -16,15 +17,10 @@ direct_latencies = []
 proxy_latencies = []
 
 direct_client = openai.AsyncOpenAI(
-    api_key=os.getenv("OPENAI_API_KEY"),
-    base_url="https://api.openai.com/v1",
-    timeout=60.0,
+    api_key=os.getenv("OPENAI_API_KEY"), base_url="https://api.openai.com/v1", timeout=60.0
 )
 
-proxy_client = openai.AsyncOpenAI(
-    api_key="dummy-key",
-    base_url="http://localhost:8080/v1",
-)
+proxy_client = openai.AsyncOpenAI(api_key="dummy-key", base_url="http://localhost:8080/v1")
 
 
 def load_prompts():
@@ -142,72 +138,6 @@ async def test_direct_vs_proxy():
         )
     else:
         print("Not enough data to generate chart. Check the error logs.")
-
-
-def compute_cdf(data):
-    sorted_data = np.sort(data)
-    y = np.arange(1, len(sorted_data) + 1) / len(sorted_data)
-    return sorted_data, y
-
-
-def calc_percent_diff(val1, val2):
-    return ((val1 - val2) / val1) * 100
-
-
-def generate_cdf_chart():
-    x1, y1 = compute_cdf(direct_latencies)
-    x2, y2 = compute_cdf(proxy_latencies)
-
-    median_diff = calc_percent_diff(np.median(direct_latencies), np.median(proxy_latencies))
-    p95_diff = calc_percent_diff(np.percentile(direct_latencies, 95), np.percentile(proxy_latencies, 95))
-    p99_diff = calc_percent_diff(np.percentile(direct_latencies, 99), np.percentile(proxy_latencies, 99))
-    p9999_diff = calc_percent_diff(np.percentile(direct_latencies, 99.99), np.percentile(proxy_latencies, 99.99))
-    max_diff = calc_percent_diff(np.max(direct_latencies), np.max(proxy_latencies))
-
-    plt.figure(figsize=(10, 6))
-    plt.plot(x1, y1, label="Direct request latency", color="blue")
-    plt.plot(x2, y2, label="Proxy request latency", color="red")
-
-    plt.xlabel("Latency (ms)")
-    plt.ylabel("Cumulative Density")
-    plt.title("CDF of Request Latencies (OpenAI API)")
-    plt.grid(True, alpha=0.3)
-    plt.legend()
-
-    stats_text = (
-        f"Direct request latency:\n"
-        f"  median: {np.median(direct_latencies):.1f}ms\n"
-        f"  95th: {np.percentile(direct_latencies, 95):.1f}ms\n"
-        f"  99th: {np.percentile(direct_latencies, 99):.1f}ms\n"
-        f"  99.99th: {np.percentile(direct_latencies, 99.99):.1f}ms\n"
-        f"  max: {np.max(direct_latencies):.1f}ms\n\n"
-        f"Proxy request latency:\n"
-        f"  median: {np.median(proxy_latencies):.1f}ms\n"
-        f"  95th: {np.percentile(proxy_latencies, 95):.1f}ms\n"
-        f"  99th: {np.percentile(proxy_latencies, 99):.1f}ms\n"
-        f"  99.99th: {np.percentile(proxy_latencies, 99.99):.1f}ms\n"
-        f"  max: {np.max(proxy_latencies):.1f}ms\n\n"
-        f"Percentage speed up:\n"
-        f"  median: {median_diff:+.1f}%\n"
-        f"  95th: {p95_diff:+.1f}%\n"
-        f"  99th: {p99_diff:+.1f}%\n"
-        f"  99.99th: {p9999_diff:+.1f}%\n"
-        f"  max: {max_diff:+.1f}%"
-    )
-    plt.text(
-        0.02,
-        0.02,
-        stats_text,
-        transform=plt.gca().transAxes,
-        bbox=dict(facecolor="white", alpha=0.8),
-        fontsize=8,
-        family="monospace",
-    )
-
-    plt.tight_layout()
-    plt.savefig("openai_latency_comparison.png")
-    plt.show()
-    plt.close()
 
 
 if __name__ == "__main__":
