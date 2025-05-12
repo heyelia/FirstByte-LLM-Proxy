@@ -28,7 +28,7 @@ This shows a noticeable reduction in both mean and median latency when using the
 The following Cumulative Distribution Function (CDF) plot visualizes this TTFB improvement:
 
 ![Latency CDF Plot](./backend/openai_latency_comparison.png)
-_This graph was generated using the `test.py` script._
+_This graph was generated using the `test.py` script and 426 requests to OpenAI (gpt-4o-mini)._
 
 While the examples and testing focus on OpenAI, this technique is applicable to other LLM providers.
 
