@@ -1,93 +1,426 @@
-{"timestamp": "2025-05-12T11:05:37.230873", "message": "request race finished", "time_taken": 527.7805328369141, "prompt": "The quick brown fox jumps over..."}
-{"timestamp": "2025-05-12T11:05:37.518109", "message": "request race finished", "time_taken": 286.8330478668213, "prompt": "A journey of a thousand miles ..."}
-{"timestamp": "2025-05-12T11:05:37.923646", "message": "request race finished", "time_taken": 405.1084518432617, "prompt": "All that glitters is not gold."}
-{"timestamp": "2025-05-12T11:05:38.299871", "message": "request race finished", "time_taken": 375.86092948913574, "prompt": "Actions speak louder than word..."}
-{"timestamp": "2025-05-12T11:05:38.645435", "message": "request race finished", "time_taken": 345.2177047729492, "prompt": "Better late than never."}
-{"timestamp": "2025-05-12T11:05:39.063508", "message": "request race finished", "time_taken": 417.51790046691895, "prompt": "Birds of a feather flock toget..."}
-{"timestamp": "2025-05-12T11:05:40.028808", "message": "request race finished", "time_taken": 965.001106262207, "prompt": "Don't count your chickens befo..."}
-{"timestamp": "2025-05-12T11:05:40.244720", "message": "request race finished", "time_taken": 215.50393104553223, "prompt": "Easy come, easy go."}
-{"timestamp": "2025-05-12T11:05:40.579339", "message": "request race finished", "time_taken": 334.2573642730713, "prompt": "Every cloud has a silver linin..."}
-{"timestamp": "2025-05-12T11:05:40.958280", "message": "request race finished", "time_taken": 378.5843849182129, "prompt": "Honesty is the best policy."}
-{"timestamp": "2025-05-12T11:05:41.143331", "message": "request race finished", "time_taken": 184.64136123657227, "prompt": "If it ain't broke, don't fix i..."}
-{"timestamp": "2025-05-12T11:05:41.409735", "message": "request race finished", "time_taken": 265.96879959106445, "prompt": "Look before you leap."}
-{"timestamp": "2025-05-12T11:05:41.911486", "message": "request race finished", "time_taken": 501.38354301452637, "prompt": "Necessity is the mother of inv..."}
-{"timestamp": "2025-05-12T11:05:42.187967", "message": "request race finished", "time_taken": 276.0658264160156, "prompt": "Practice makes perfect."}
-{"timestamp": "2025-05-12T11:05:42.570538", "message": "request race finished", "time_taken": 382.1744918823242, "prompt": "Rome wasn't built in a day."}
-{"timestamp": "2025-05-12T11:05:42.871276", "message": "request race finished", "time_taken": 300.2488613128662, "prompt": "Still waters run deep."}
-{"timestamp": "2025-05-12T11:05:43.364530", "message": "request race finished", "time_taken": 492.79069900512695, "prompt": "The early bird catches the wor..."}
-{"timestamp": "2025-05-12T11:05:43.875247", "message": "request race finished", "time_taken": 510.2391242980957, "prompt": "Two wrongs don't make a right."}
-{"timestamp": "2025-05-12T11:05:44.203228", "message": "request race finished", "time_taken": 327.55517959594727, "prompt": "When in Rome, do as the Romans..."}
-{"timestamp": "2025-05-12T11:05:44.502174", "message": "request race finished", "time_taken": 298.77424240112305, "prompt": "You can't have your cake and e..."}
-{"timestamp": "2025-05-12T11:05:44.822264", "message": "request race finished", "time_taken": 319.75317001342773, "prompt": "Absence makes the heart grow f..."}
-{"timestamp": "2025-05-12T11:05:45.105764", "message": "request race finished", "time_taken": 283.2059860229492, "prompt": "Beauty is in the eye of the be..."}
-{"timestamp": "2025-05-12T11:05:45.390691", "message": "request race finished", "time_taken": 284.70325469970703, "prompt": "Curiosity killed the cat."}
-{"timestamp": "2025-05-12T11:05:45.777623", "message": "request race finished", "time_taken": 386.52539253234863, "prompt": "Don't put all your eggs in one..."}
-{"timestamp": "2025-05-12T11:05:46.078186", "message": "request race finished", "time_taken": 300.123929977417, "prompt": "Fortune favors the bold."}
-{"timestamp": "2025-05-12T11:05:46.663725", "message": "request race finished", "time_taken": 585.1786136627197, "prompt": "Great minds think alike."}
-{"timestamp": "2025-05-12T11:05:47.145945", "message": "request race finished", "time_taken": 481.8894863128662, "prompt": "Haste makes waste."}
-{"timestamp": "2025-05-12T11:05:47.836321", "message": "request race finished", "time_taken": 689.934492111206, "prompt": "Ignorance is bliss."}
-{"timestamp": "2025-05-12T11:05:48.218134", "message": "request race finished", "time_taken": 381.44779205322266, "prompt": "Justice delayed is justice den..."}
-{"timestamp": "2025-05-12T11:05:48.637080", "message": "request race finished", "time_taken": 418.7607765197754, "prompt": "Knowledge is power."}
-{"timestamp": "2025-05-12T11:05:49.004206", "message": "request race finished", "time_taken": 366.78361892700195, "prompt": "Laughter is the best medicine."}
-{"timestamp": "2025-05-12T11:05:49.565994", "message": "request race finished", "time_taken": 561.5754127502441, "prompt": "Money doesn't grow on trees."}
-{"timestamp": "2025-05-12T11:05:50.007310", "message": "request race finished", "time_taken": 440.92416763305664, "prompt": "Opportunity knocks but once."}
-{"timestamp": "2025-05-12T11:05:50.483449", "message": "request race finished", "time_taken": 475.7273197174072, "prompt": "Patience is a virtue."}
-{"timestamp": "2025-05-12T11:05:50.919788", "message": "request race finished", "time_taken": 435.8334541320801, "prompt": "Quit while you're ahead."}
-{"timestamp": "2025-05-12T11:05:51.270096", "message": "request race finished", "time_taken": 350.1310348510742, "prompt": "Revenge is a dish best served ..."}
-{"timestamp": "2025-05-12T11:05:51.693015", "message": "request race finished", "time_taken": 422.44458198547363, "prompt": "Silence is golden."}
-{"timestamp": "2025-05-12T11:05:52.056582", "message": "request race finished", "time_taken": 363.13724517822266, "prompt": "Time heals all wounds."}
-{"timestamp": "2025-05-12T11:05:52.361862", "message": "request race finished", "time_taken": 304.8117160797119, "prompt": "United we stand, divided we fa..."}
-{"timestamp": "2025-05-12T11:05:52.739503", "message": "request race finished", "time_taken": 377.28333473205566, "prompt": "Variety is the spice of life."}
-{"timestamp": "2025-05-12T11:05:53.343948", "message": "request race finished", "time_taken": 604.0065288543701, "prompt": "Where there's a will, there's ..."}
-{"timestamp": "2025-05-12T11:05:54.051550", "message": "request race finished", "time_taken": 707.4174880981445, "prompt": "You can lead a horse to water,..."}
-{"timestamp": "2025-05-12T11:05:54.483430", "message": "request race finished", "time_taken": 431.6902160644531, "prompt": "A penny saved is a penny earne..."}
-{"timestamp": "2025-05-12T11:05:54.871195", "message": "request race finished", "time_taken": 387.41016387939453, "prompt": "Better safe than sorry."}
-{"timestamp": "2025-05-12T11:05:55.166709", "message": "request race finished", "time_taken": 295.135498046875, "prompt": "Cleanliness is next to godline..."}
-{"timestamp": "2025-05-12T11:05:55.541267", "message": "request race finished", "time_taken": 374.3131160736084, "prompt": "Don't bite the hand that feeds..."}
-{"timestamp": "2025-05-12T11:05:55.950687", "message": "request race finished", "time_taken": 409.1970920562744, "prompt": "Early to bed and early to rise..."}
-{"timestamp": "2025-05-12T11:05:56.342715", "message": "request race finished", "time_taken": 391.6318416595459, "prompt": "Familiarity breeds contempt."}
-{"timestamp": "2025-05-12T11:05:56.602948", "message": "request race finished", "time_taken": 259.8276138305664, "prompt": "Give a man a fish, and you fee..."}
-{"timestamp": "2025-05-12T11:05:57.020297", "message": "request race finished", "time_taken": 416.9614315032959, "prompt": "Hope springs eternal."}
-{"timestamp": "2025-05-12T11:05:57.377748", "message": "request race finished", "time_taken": 357.23137855529785, "prompt": "It takes two to tango."}
-{"timestamp": "2025-05-12T11:05:57.760816", "message": "request race finished", "time_taken": 382.7028274536133, "prompt": "Kill two birds with one stone."}
-{"timestamp": "2025-05-12T11:05:58.201417", "message": "request race finished", "time_taken": 440.22607803344727, "prompt": "Like father, like son."}
-{"timestamp": "2025-05-12T11:05:58.485229", "message": "request race finished", "time_taken": 283.3418846130371, "prompt": "Man does not live by bread alo..."}
-{"timestamp": "2025-05-12T11:05:58.917200", "message": "request race finished", "time_taken": 341.8917655944824, "prompt": "No news is good news."}
-{"timestamp": "2025-05-12T11:05:59.682532", "message": "request race finished", "time_taken": 764.9104595184326, "prompt": "Out of sight, out of mind."}
-{"timestamp": "2025-05-12T11:06:00.026812", "message": "request race finished", "time_taken": 343.86754035949707, "prompt": "Practice what you preach."}
-{"timestamp": "2025-05-12T11:06:00.416689", "message": "request race finished", "time_taken": 389.41264152526855, "prompt": "The pen is mightier than the s..."}
-{"timestamp": "2025-05-12T11:06:00.886305", "message": "request race finished", "time_taken": 469.42639350891113, "prompt": "Two heads are better than one."}
-{"timestamp": "2025-05-12T11:06:01.302292", "message": "request race finished", "time_taken": 415.8051013946533, "prompt": "When the cat's away, the mice ..."}
-{"timestamp": "2025-05-12T11:06:01.592453", "message": "request race finished", "time_taken": 289.8063659667969, "prompt": "You can't judge a book by its ..."}
-{"timestamp": "2025-05-12T11:06:01.857009", "message": "request race finished", "time_taken": 264.1935348510742, "prompt": "A watched pot never boils."}
-{"timestamp": "2025-05-12T11:06:02.307181", "message": "request race finished", "time_taken": 449.7060775756836, "prompt": "Beggars can't be choosers."}
-{"timestamp": "2025-05-12T11:06:02.686352", "message": "request race finished", "time_taken": 378.8175582885742, "prompt": "Clothes make the man."}
-{"timestamp": "2025-05-12T11:06:03.026032", "message": "request race finished", "time_taken": 339.33568000793457, "prompt": "Discretion is the better part ..."}
-{"timestamp": "2025-05-12T11:06:03.458686", "message": "request race finished", "time_taken": 432.0380687713623, "prompt": "Enough is as good as a feast."}
-{"timestamp": "2025-05-12T11:06:03.778837", "message": "request race finished", "time_taken": 319.7462558746338, "prompt": "Fool me once, shame on you; fo..."}
-{"timestamp": "2025-05-12T11:06:04.090518", "message": "request race finished", "time_taken": 311.2928867340088, "prompt": "God helps those who help thems..."}
-{"timestamp": "2025-05-12T11:06:04.539012", "message": "request race finished", "time_taken": 448.08411598205566, "prompt": "He who laughs last laughs best..."}
-{"timestamp": "2025-05-12T11:06:04.881048", "message": "request race finished", "time_taken": 341.63475036621094, "prompt": "If you want something done rig..."}
-{"timestamp": "2025-05-12T11:06:05.189982", "message": "request race finished", "time_taken": 308.5014820098877, "prompt": "Keep your friends close, but y..."}
-{"timestamp": "2025-05-12T11:06:05.513658", "message": "request race finished", "time_taken": 323.3954906463623, "prompt": "Little strokes fell great oaks..."}
-{"timestamp": "2025-05-12T11:06:05.998201", "message": "request race finished", "time_taken": 484.1597080230713, "prompt": "Misery loves company."}
-{"timestamp": "2025-05-12T11:06:06.589062", "message": "request race finished", "time_taken": 590.4521942138672, "prompt": "Once bitten, twice shy."}
-{"timestamp": "2025-05-12T11:06:06.963035", "message": "request race finished", "time_taken": 373.64673614501953, "prompt": "People who live in glass house..."}
-{"timestamp": "2025-05-12T11:06:07.232716", "message": "request race finished", "time_taken": 269.3355083465576, "prompt": "The squeaky wheel gets the gre..."}
-{"timestamp": "2025-05-12T11:06:07.552953", "message": "request race finished", "time_taken": 319.92483139038086, "prompt": "Truth will out."}
-{"timestamp": "2025-05-12T11:06:07.909788", "message": "request race finished", "time_taken": 356.5192222595215, "prompt": "What goes around comes around."}
-{"timestamp": "2025-05-12T11:06:08.375711", "message": "request race finished", "time_taken": 465.4686450958252, "prompt": "You scratch my back, and I'll ..."}
-{"timestamp": "2025-05-12T11:06:08.684601", "message": "request race finished", "time_taken": 308.5508346557617, "prompt": "A bird in the hand is worth tw..."}
-{"timestamp": "2025-05-12T11:06:09.266040", "message": "request race finished", "time_taken": 580.9731483459473, "prompt": "Better to have loved and lost,..."}
-{"timestamp": "2025-05-12T11:06:09.685061", "message": "request race finished", "time_taken": 418.8222885131836, "prompt": "Comparisons are odious."}
-{"timestamp": "2025-05-12T11:06:09.989462", "message": "request race finished", "time_taken": 304.0330410003662, "prompt": "Do unto others as you would ha..."}
-{"timestamp": "2025-05-12T11:06:10.532776", "message": "request race finished", "time_taken": 542.8962707519531, "prompt": "Every dog has his day."}
-{"timestamp": "2025-05-12T11:06:10.894010", "message": "request race finished", "time_taken": 360.8663082122803, "prompt": "First come, first served."}
-{"timestamp": "2025-05-12T11:06:11.814046", "message": "request race finished", "time_taken": 919.6181297302246, "prompt": "Good things come to those who ..."}
-{"timestamp": "2025-05-12T11:06:12.221895", "message": "request race finished", "time_taken": 407.3634147644043, "prompt": "He who hesitates is lost."}
-{"timestamp": "2025-05-12T11:06:12.868346", "message": "request race finished", "time_taken": 646.0273265838623, "prompt": "It's always darkest before the..."}
-{"timestamp": "2025-05-12T11:06:13.070814", "message": "request race finished", "time_taken": 202.09908485412598, "prompt": "Let sleeping dogs lie."}
-{"timestamp": "2025-05-12T11:06:13.423273", "message": "request race finished", "time_taken": 352.08678245544434, "prompt": "Many hands make light work."}
-{"timestamp": "2025-05-12T11:06:13.829109", "message": "request race finished", "time_taken": 405.6553840637207, "prompt": "Nothing ventured, nothing gain..."}
-{"timestamp": "2025-05-12T11:06:14.185672", "message": "request race finished", "time_taken": 356.19115829467773, "prompt": "Out of the frying pan, into th..."}
-{"timestamp": "2025-05-12T11:06:14.504068", "message": "request race finished", "time_taken": 317.94261932373047, "prompt": "Put your best foot forward."}
+{"timestamp": "2025-05-12T11:41:43.745782", "message": "request race finished", "time_taken": 788.461446762085, "prompt": "The quick brown fox jumps over..."}
+{"timestamp": "2025-05-12T11:41:44.083883", "message": "request race finished", "time_taken": 337.60619163513184, "prompt": "A journey of a thousand miles ..."}
+{"timestamp": "2025-05-12T11:41:44.505004", "message": "request race finished", "time_taken": 420.7437038421631, "prompt": "All that glitters is not gold."}
+{"timestamp": "2025-05-12T11:41:44.918051", "message": "request race finished", "time_taken": 412.6095771789551, "prompt": "Actions speak louder than word..."}
+{"timestamp": "2025-05-12T11:41:45.289683", "message": "request race finished", "time_taken": 370.9561824798584, "prompt": "Better late than never."}
+{"timestamp": "2025-05-12T11:41:45.712923", "message": "request race finished", "time_taken": 422.78599739074707, "prompt": "Birds of a feather flock toget..."}
+{"timestamp": "2025-05-12T11:41:46.026219", "message": "request race finished", "time_taken": 313.0502700805664, "prompt": "Don't count your chickens befo..."}
+{"timestamp": "2025-05-12T11:41:46.295244", "message": "request race finished", "time_taken": 268.7995433807373, "prompt": "Easy come, easy go."}
+{"timestamp": "2025-05-12T11:41:46.582350", "message": "request race finished", "time_taken": 286.81159019470215, "prompt": "Every cloud has a silver linin..."}
+{"timestamp": "2025-05-12T11:41:46.842827", "message": "request race finished", "time_taken": 260.29109954833984, "prompt": "Honesty is the best policy."}
+{"timestamp": "2025-05-12T11:41:47.092473", "message": "request race finished", "time_taken": 249.41730499267578, "prompt": "If it ain't broke, don't fix i..."}
+{"timestamp": "2025-05-12T11:41:47.352971", "message": "request race finished", "time_taken": 260.2958679199219, "prompt": "Look before you leap."}
+{"timestamp": "2025-05-12T11:41:47.724572", "message": "request race finished", "time_taken": 371.3710308074951, "prompt": "Necessity is the mother of inv..."}
+{"timestamp": "2025-05-12T11:41:48.080824", "message": "request race finished", "time_taken": 355.9882640838623, "prompt": "Practice makes perfect."}
+{"timestamp": "2025-05-12T11:41:48.461249", "message": "request race finished", "time_taken": 380.0673484802246, "prompt": "Rome wasn't built in a day."}
+{"timestamp": "2025-05-12T11:41:48.791536", "message": "request race finished", "time_taken": 330.10029792785645, "prompt": "Still waters run deep."}
+{"timestamp": "2025-05-12T11:41:49.146967", "message": "request race finished", "time_taken": 355.24487495422363, "prompt": "The early bird catches the wor..."}
+{"timestamp": "2025-05-12T11:41:49.638347", "message": "request race finished", "time_taken": 491.18804931640625, "prompt": "Two wrongs don't make a right."}
+{"timestamp": "2025-05-12T11:41:49.907191", "message": "request race finished", "time_taken": 268.4822082519531, "prompt": "When in Rome, do as the Romans..."}
+{"timestamp": "2025-05-12T11:41:50.189149", "message": "request race finished", "time_taken": 281.6751003265381, "prompt": "You can't have your cake and e..."}
+{"timestamp": "2025-05-12T11:41:50.519185", "message": "request race finished", "time_taken": 329.742431640625, "prompt": "Absence makes the heart grow f..."}
+{"timestamp": "2025-05-12T11:41:50.782807", "message": "request race finished", "time_taken": 263.26727867126465, "prompt": "Beauty is in the eye of the be..."}
+{"timestamp": "2025-05-12T11:41:51.094104", "message": "request race finished", "time_taken": 310.8961582183838, "prompt": "Curiosity killed the cat."}
+{"timestamp": "2025-05-12T11:41:51.448480", "message": "request race finished", "time_taken": 354.17675971984863, "prompt": "Don't put all your eggs in one..."}
+{"timestamp": "2025-05-12T11:41:51.733572", "message": "request race finished", "time_taken": 284.90185737609863, "prompt": "Fortune favors the bold."}
+{"timestamp": "2025-05-12T11:41:52.178192", "message": "request race finished", "time_taken": 444.4293975830078, "prompt": "Great minds think alike."}
+{"timestamp": "2025-05-12T11:41:52.460809", "message": "request race finished", "time_taken": 282.43231773376465, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:41:52.780317", "message": "request race finished", "time_taken": 319.3044662475586, "prompt": "Ignorance is bliss."}
+{"timestamp": "2025-05-12T11:41:53.097804", "message": "request race finished", "time_taken": 317.11649894714355, "prompt": "Justice delayed is justice den..."}
+{"timestamp": "2025-05-12T11:41:53.390794", "message": "request race finished", "time_taken": 292.5453186035156, "prompt": "Knowledge is power."}
+{"timestamp": "2025-05-12T11:41:53.723352", "message": "request race finished", "time_taken": 332.36217498779297, "prompt": "Laughter is the best medicine."}
+{"timestamp": "2025-05-12T11:41:54.199253", "message": "request race finished", "time_taken": 475.64077377319336, "prompt": "Money doesn't grow on trees."}
+{"timestamp": "2025-05-12T11:41:54.663263", "message": "request race finished", "time_taken": 463.7951850891113, "prompt": "Opportunity knocks but once."}
+{"timestamp": "2025-05-12T11:41:54.929586", "message": "request race finished", "time_taken": 266.1311626434326, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:41:55.309912", "message": "request race finished", "time_taken": 380.1462650299072, "prompt": "Quit while you're ahead."}
+{"timestamp": "2025-05-12T11:41:55.638891", "message": "request race finished", "time_taken": 328.747034072876, "prompt": "Revenge is a dish best served ..."}
+{"timestamp": "2025-05-12T11:41:56.000635", "message": "request race finished", "time_taken": 361.5593910217285, "prompt": "Silence is golden."}
+{"timestamp": "2025-05-12T11:41:56.355724", "message": "request race finished", "time_taken": 354.77447509765625, "prompt": "Time heals all wounds."}
+{"timestamp": "2025-05-12T11:41:56.676077", "message": "request race finished", "time_taken": 320.0855255126953, "prompt": "United we stand, divided we fa..."}
+{"timestamp": "2025-05-12T11:41:56.988020", "message": "request race finished", "time_taken": 311.5718364715576, "prompt": "Variety is the spice of life."}
+{"timestamp": "2025-05-12T11:41:57.358409", "message": "request race finished", "time_taken": 369.98724937438965, "prompt": "Where there's a will, there's ..."}
+{"timestamp": "2025-05-12T11:41:57.921267", "message": "request race finished", "time_taken": 562.4277591705322, "prompt": "You can lead a horse to water,..."}
+{"timestamp": "2025-05-12T11:41:58.315722", "message": "request race finished", "time_taken": 394.0412998199463, "prompt": "A penny saved is a penny earne..."}
+{"timestamp": "2025-05-12T11:41:58.590984", "message": "request race finished", "time_taken": 274.81698989868164, "prompt": "Better safe than sorry."}
+{"timestamp": "2025-05-12T11:41:58.892858", "message": "request race finished", "time_taken": 301.4223575592041, "prompt": "Cleanliness is next to godline..."}
+{"timestamp": "2025-05-12T11:41:59.196640", "message": "request race finished", "time_taken": 303.3592700958252, "prompt": "Don't bite the hand that feeds..."}
+{"timestamp": "2025-05-12T11:41:59.541851", "message": "request race finished", "time_taken": 344.76733207702637, "prompt": "Early to bed and early to rise..."}
+{"timestamp": "2025-05-12T11:42:00.023816", "message": "request race finished", "time_taken": 481.600284576416, "prompt": "Familiarity breeds contempt."}
+{"timestamp": "2025-05-12T11:42:00.293657", "message": "request race finished", "time_taken": 269.5765495300293, "prompt": "Give a man a fish, and you fee..."}
+{"timestamp": "2025-05-12T11:42:00.626201", "message": "request race finished", "time_taken": 332.29684829711914, "prompt": "Hope springs eternal."}
+{"timestamp": "2025-05-12T11:42:00.976827", "message": "request race finished", "time_taken": 350.39210319519043, "prompt": "It takes two to tango."}
+{"timestamp": "2025-05-12T11:42:01.785645", "message": "request race finished", "time_taken": 808.4456920623779, "prompt": "Kill two birds with one stone."}
+{"timestamp": "2025-05-12T11:42:02.686326", "message": "request race finished", "time_taken": 900.2697467803955, "prompt": "Like father, like son."}
+{"timestamp": "2025-05-12T11:42:03.007082", "message": "request race finished", "time_taken": 320.3914165496826, "prompt": "Man does not live by bread alo..."}
+{"timestamp": "2025-05-12T11:42:03.399431", "message": "request race finished", "time_taken": 324.63788986206055, "prompt": "No news is good news."}
+{"timestamp": "2025-05-12T11:42:03.692648", "message": "request race finished", "time_taken": 292.8657531738281, "prompt": "Out of sight, out of mind."}
+{"timestamp": "2025-05-12T11:42:04.188662", "message": "request race finished", "time_taken": 495.6321716308594, "prompt": "Practice what you preach."}
+{"timestamp": "2025-05-12T11:42:04.539624", "message": "request race finished", "time_taken": 350.60596466064453, "prompt": "The pen is mightier than the s..."}
+{"timestamp": "2025-05-12T11:42:05.164006", "message": "request race finished", "time_taken": 624.1855621337891, "prompt": "Two heads are better than one."}
+{"timestamp": "2025-05-12T11:42:05.709836", "message": "request race finished", "time_taken": 545.3841686248779, "prompt": "When the cat's away, the mice ..."}
+{"timestamp": "2025-05-12T11:42:06.065858", "message": "request race finished", "time_taken": 355.562686920166, "prompt": "You can't judge a book by its ..."}
+{"timestamp": "2025-05-12T11:42:06.442841", "message": "request race finished", "time_taken": 376.7855167388916, "prompt": "A watched pot never boils."}
+{"timestamp": "2025-05-12T11:42:06.928652", "message": "request race finished", "time_taken": 485.38804054260254, "prompt": "Beggars can't be choosers."}
+{"timestamp": "2025-05-12T11:42:07.300408", "message": "request race finished", "time_taken": 370.5332279205322, "prompt": "Clothes make the man."}
+{"timestamp": "2025-05-12T11:42:07.560264", "message": "request race finished", "time_taken": 259.4161033630371, "prompt": "Discretion is the better part ..."}
+{"timestamp": "2025-05-12T11:42:07.922372", "message": "request race finished", "time_taken": 361.88554763793945, "prompt": "Enough is as good as a feast."}
+{"timestamp": "2025-05-12T11:42:08.219041", "message": "request race finished", "time_taken": 296.2930202484131, "prompt": "Fool me once, shame on you; fo..."}
+{"timestamp": "2025-05-12T11:42:08.607817", "message": "request race finished", "time_taken": 388.3380889892578, "prompt": "God helps those who help thems..."}
+{"timestamp": "2025-05-12T11:42:09.027199", "message": "request race finished", "time_taken": 419.18301582336426, "prompt": "He who laughs last laughs best..."}
+{"timestamp": "2025-05-12T11:42:09.372972", "message": "request race finished", "time_taken": 345.57557106018066, "prompt": "If you want something done rig..."}
+{"timestamp": "2025-05-12T11:42:09.696264", "message": "request race finished", "time_taken": 322.8106498718262, "prompt": "Keep your friends close, but y..."}
+{"timestamp": "2025-05-12T11:42:10.103497", "message": "request race finished", "time_taken": 406.97407722473145, "prompt": "Little strokes fell great oaks..."}
+{"timestamp": "2025-05-12T11:42:10.967770", "message": "request race finished", "time_taken": 864.0756607055664, "prompt": "Misery loves company."}
+{"timestamp": "2025-05-12T11:42:11.328841", "message": "request race finished", "time_taken": 360.89468002319336, "prompt": "Once bitten, twice shy."}
+{"timestamp": "2025-05-12T11:42:11.738442", "message": "request race finished", "time_taken": 409.40380096435547, "prompt": "People who live in glass house..."}
+{"timestamp": "2025-05-12T11:42:12.096699", "message": "request race finished", "time_taken": 357.99098014831543, "prompt": "The squeaky wheel gets the gre..."}
+{"timestamp": "2025-05-12T11:42:12.364783", "message": "request race finished", "time_taken": 267.25292205810547, "prompt": "Truth will out."}
+{"timestamp": "2025-05-12T11:42:12.803294", "message": "request race finished", "time_taken": 438.31610679626465, "prompt": "What goes around comes around."}
+{"timestamp": "2025-05-12T11:42:13.305776", "message": "request race finished", "time_taken": 502.1176338195801, "prompt": "You scratch my back, and I'll ..."}
+{"timestamp": "2025-05-12T11:42:13.661243", "message": "request race finished", "time_taken": 355.2591800689697, "prompt": "A bird in the hand is worth tw..."}
+{"timestamp": "2025-05-12T11:42:14.123756", "message": "request race finished", "time_taken": 462.31603622436523, "prompt": "Better to have loved and lost,..."}
+{"timestamp": "2025-05-12T11:42:14.465650", "message": "request race finished", "time_taken": 341.62020683288574, "prompt": "Comparisons are odious."}
+{"timestamp": "2025-05-12T11:42:14.800495", "message": "request race finished", "time_taken": 334.611177444458, "prompt": "Do unto others as you would ha..."}
+{"timestamp": "2025-05-12T11:42:15.222183", "message": "request race finished", "time_taken": 421.3378429412842, "prompt": "Every dog has his day."}
+{"timestamp": "2025-05-12T11:42:15.611509", "message": "request race finished", "time_taken": 389.1451358795166, "prompt": "First come, first served."}
+{"timestamp": "2025-05-12T11:42:15.939713", "message": "request race finished", "time_taken": 328.02343368530273, "prompt": "Good things come to those who ..."}
+{"timestamp": "2025-05-12T11:42:16.293488", "message": "request race finished", "time_taken": 353.5881042480469, "prompt": "He who hesitates is lost."}
+{"timestamp": "2025-05-12T11:42:16.705673", "message": "request race finished", "time_taken": 411.92054748535156, "prompt": "It's always darkest before the..."}
+{"timestamp": "2025-05-12T11:42:17.014673", "message": "request race finished", "time_taken": 308.72654914855957, "prompt": "Let sleeping dogs lie."}
+{"timestamp": "2025-05-12T11:42:17.319998", "message": "request race finished", "time_taken": 305.09018898010254, "prompt": "Many hands make light work."}
+{"timestamp": "2025-05-12T11:42:17.846713", "message": "request race finished", "time_taken": 526.4918804168701, "prompt": "Nothing ventured, nothing gain..."}
+{"timestamp": "2025-05-12T11:42:18.215471", "message": "request race finished", "time_taken": 368.36814880371094, "prompt": "Out of the frying pan, into th..."}
+{"timestamp": "2025-05-12T11:42:18.504777", "message": "request race finished", "time_taken": 289.0472412109375, "prompt": "Put your best foot forward."}
+{"timestamp": "2025-05-12T11:42:18.897841", "message": "request race finished", "time_taken": 392.8802013397217, "prompt": "The pen is mightier than the s..."}
+{"timestamp": "2025-05-12T11:42:19.259103", "message": "request race finished", "time_taken": 361.0262870788574, "prompt": "Where there's a will, there's ..."}
+{"timestamp": "2025-05-12T11:42:19.569701", "message": "request race finished", "time_taken": 310.3468418121338, "prompt": "Absence makes the heart grow f..."}
+{"timestamp": "2025-05-12T11:42:19.833501", "message": "request race finished", "time_taken": 263.5679244995117, "prompt": "Beauty is in the eye of the be..."}
+{"timestamp": "2025-05-12T11:42:20.189748", "message": "request race finished", "time_taken": 355.8783531188965, "prompt": "Curiosity killed the cat."}
+{"timestamp": "2025-05-12T11:42:20.631734", "message": "request race finished", "time_taken": 441.7095184326172, "prompt": "Don't put all your eggs in one..."}
+{"timestamp": "2025-05-12T11:42:21.045101", "message": "request race finished", "time_taken": 413.1579399108887, "prompt": "Familiarity breeds contempt."}
+{"timestamp": "2025-05-12T11:42:21.539434", "message": "request race finished", "time_taken": 494.1446781158447, "prompt": "Great minds think alike."}
+{"timestamp": "2025-05-12T11:42:22.055711", "message": "request race finished", "time_taken": 515.9401893615723, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:42:22.387902", "message": "request race finished", "time_taken": 331.97999000549316, "prompt": "Ignorance is bliss."}
+{"timestamp": "2025-05-12T11:42:23.087455", "message": "request race finished", "time_taken": 699.3401050567627, "prompt": "Kill two birds with one stone."}
+{"timestamp": "2025-05-12T11:42:23.422255", "message": "request race finished", "time_taken": 334.3956470489502, "prompt": "Like father, like son."}
+{"timestamp": "2025-05-12T11:42:23.889260", "message": "request race finished", "time_taken": 466.62116050720215, "prompt": "Misery loves company."}
+{"timestamp": "2025-05-12T11:42:24.193312", "message": "request race finished", "time_taken": 303.5438060760498, "prompt": "No news is good news."}
+{"timestamp": "2025-05-12T11:42:24.644913", "message": "request race finished", "time_taken": 451.2512683868408, "prompt": "Opportunity knocks but once."}
+{"timestamp": "2025-05-12T11:42:24.990758", "message": "request race finished", "time_taken": 345.3104496002197, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:42:25.356595", "message": "request race finished", "time_taken": 365.4444217681885, "prompt": "Quit while you're ahead."}
+{"timestamp": "2025-05-12T11:42:25.858395", "message": "request race finished", "time_taken": 501.4681816101074, "prompt": "Revenge is a dish best served ..."}
+{"timestamp": "2025-05-12T11:42:26.178257", "message": "request race finished", "time_taken": 319.6563720703125, "prompt": "Still waters run deep."}
+{"timestamp": "2025-05-12T11:42:26.715976", "message": "request race finished", "time_taken": 537.2850894927979, "prompt": "Time heals all wounds."}
+{"timestamp": "2025-05-12T11:42:27.013895", "message": "request race finished", "time_taken": 297.68872261047363, "prompt": "United we stand, divided we fa..."}
+{"timestamp": "2025-05-12T11:42:27.337206", "message": "request race finished", "time_taken": 322.9553699493408, "prompt": "Variety is the spice of life."}
+{"timestamp": "2025-05-12T11:42:27.598517", "message": "request race finished", "time_taken": 261.1079216003418, "prompt": "When in Rome, do as the Romans..."}
+{"timestamp": "2025-05-12T11:42:27.897404", "message": "request race finished", "time_taken": 298.36463928222656, "prompt": "X marks the spot."}
+{"timestamp": "2025-05-12T11:42:28.205546", "message": "request race finished", "time_taken": 307.9533576965332, "prompt": "You can't have your cake and e..."}
+{"timestamp": "2025-05-12T11:42:28.663116", "message": "request race finished", "time_taken": 348.7670421600342, "prompt": "Zeal without knowledge is a ru..."}
+{"timestamp": "2025-05-12T11:42:28.989847", "message": "request race finished", "time_taken": 326.49922370910645, "prompt": "A fool and his money are soon ..."}
+{"timestamp": "2025-05-12T11:42:29.332602", "message": "request race finished", "time_taken": 342.3595428466797, "prompt": "Better safe than sorry."}
+{"timestamp": "2025-05-12T11:42:29.695173", "message": "request race finished", "time_taken": 362.1106147766113, "prompt": "Clothes make the man."}
+{"timestamp": "2025-05-12T11:42:29.930800", "message": "request race finished", "time_taken": 235.28718948364258, "prompt": "Discretion is the better part ..."}
+{"timestamp": "2025-05-12T11:42:30.234484", "message": "request race finished", "time_taken": 303.4250736236572, "prompt": "Easy come, easy go."}
+{"timestamp": "2025-05-12T11:42:30.465054", "message": "request race finished", "time_taken": 230.38387298583984, "prompt": "Fortune favors the bold."}
+{"timestamp": "2025-05-12T11:42:31.741902", "message": "request race finished", "time_taken": 1276.5088081359863, "prompt": "Give a man a fish, and you fee..."}
+{"timestamp": "2025-05-12T11:42:32.040154", "message": "request race finished", "time_taken": 297.78575897216797, "prompt": "Hindsight is 20/20."}
+{"timestamp": "2025-05-12T11:42:32.289283", "message": "request race finished", "time_taken": 248.9326000213623, "prompt": "If you want something done rig..."}
+{"timestamp": "2025-05-12T11:42:32.661152", "message": "request race finished", "time_taken": 371.68025970458984, "prompt": "Justice delayed is justice den..."}
+{"timestamp": "2025-05-12T11:42:32.956692", "message": "request race finished", "time_taken": 295.2604293823242, "prompt": "Knowledge is power."}
+{"timestamp": "2025-05-12T11:42:33.315296", "message": "request race finished", "time_taken": 358.19315910339355, "prompt": "Learn from your mistakes."}
+{"timestamp": "2025-05-12T11:42:33.722468", "message": "request race finished", "time_taken": 406.6805839538574, "prompt": "Make hay while the sun shines."}
+{"timestamp": "2025-05-12T11:42:34.096427", "message": "request race finished", "time_taken": 373.4776973724365, "prompt": "Never look a gift horse in the..."}
+{"timestamp": "2025-05-12T11:42:34.384552", "message": "request race finished", "time_taken": 287.8890037536621, "prompt": "Out of sight, out of mind."}
+{"timestamp": "2025-05-12T11:42:34.817272", "message": "request race finished", "time_taken": 432.34777450561523, "prompt": "People who live in glass house..."}
+{"timestamp": "2025-05-12T11:42:35.100783", "message": "request race finished", "time_taken": 283.1273078918457, "prompt": "Quality over quantity."}
+{"timestamp": "2025-05-12T11:42:35.388663", "message": "request race finished", "time_taken": 287.69779205322266, "prompt": "Rome wasn't built in a day."}
+{"timestamp": "2025-05-12T11:42:35.717201", "message": "request race finished", "time_taken": 328.20701599121094, "prompt": "Still waters run deep."}
+{"timestamp": "2025-05-12T11:42:36.022161", "message": "request race finished", "time_taken": 304.506778717041, "prompt": "The apple doesn't fall far fro..."}
+{"timestamp": "2025-05-12T11:42:36.462565", "message": "request race finished", "time_taken": 439.96500968933105, "prompt": "Two wrongs don't make a right."}
+{"timestamp": "2025-05-12T11:42:36.798558", "message": "request race finished", "time_taken": 335.6814384460449, "prompt": "Use it or lose it."}
+{"timestamp": "2025-05-12T11:42:37.165616", "message": "request race finished", "time_taken": 366.7113780975342, "prompt": "Virtue is its own reward."}
+{"timestamp": "2025-05-12T11:42:37.454991", "message": "request race finished", "time_taken": 289.0887260437012, "prompt": "What's done is done."}
+{"timestamp": "2025-05-12T11:42:37.765626", "message": "request race finished", "time_taken": 310.4367256164551, "prompt": "Xenophobia is the fear of the ..."}
+{"timestamp": "2025-05-12T11:42:38.230893", "message": "request race finished", "time_taken": 464.84994888305664, "prompt": "You can lead a horse to water,..."}
+{"timestamp": "2025-05-12T11:42:38.470318", "message": "request race finished", "time_taken": 239.15839195251465, "prompt": "Zero tolerance."}
+{"timestamp": "2025-05-12T11:42:38.833112", "message": "request race finished", "time_taken": 362.3242378234863, "prompt": "A penny saved is a penny earne..."}
+{"timestamp": "2025-05-12T11:42:39.199138", "message": "request race finished", "time_taken": 365.83542823791504, "prompt": "Beggars can't be choosers."}
+{"timestamp": "2025-05-12T11:42:39.696127", "message": "request race finished", "time_taken": 496.5853691101074, "prompt": "Cleanliness is next to godline..."}
+{"timestamp": "2025-05-12T11:42:39.990156", "message": "request race finished", "time_taken": 293.64633560180664, "prompt": "Don't bite the hand that feeds..."}
+{"timestamp": "2025-05-12T11:42:40.382810", "message": "request race finished", "time_taken": 392.2533988952637, "prompt": "Early to bed and early to rise..."}
+{"timestamp": "2025-05-12T11:42:40.663861", "message": "request race finished", "time_taken": 280.5509567260742, "prompt": "Fool me once, shame on you; fo..."}
+{"timestamp": "2025-05-12T11:42:41.057622", "message": "request race finished", "time_taken": 393.2943344116211, "prompt": "God helps those who help thems..."}
+{"timestamp": "2025-05-12T11:42:41.401550", "message": "request race finished", "time_taken": 343.51229667663574, "prompt": "Honesty is the best policy."}
+{"timestamp": "2025-05-12T11:42:41.715546", "message": "request race finished", "time_taken": 313.6172294616699, "prompt": "If it ain't broke, don't fix i..."}
+{"timestamp": "2025-05-12T11:42:42.133449", "message": "request race finished", "time_taken": 417.44208335876465, "prompt": "Jack of all trades, master of ..."}
+{"timestamp": "2025-05-12T11:42:42.419970", "message": "request race finished", "time_taken": 286.1135005950928, "prompt": "Keep your friends close, but y..."}
+{"timestamp": "2025-05-12T11:42:42.828740", "message": "request race finished", "time_taken": 408.3740711212158, "prompt": "Laughter is the best medicine."}
+{"timestamp": "2025-05-12T11:42:43.115368", "message": "request race finished", "time_taken": 286.2563133239746, "prompt": "Man does not live on bread alo..."}
+{"timestamp": "2025-05-12T11:42:43.487004", "message": "request race finished", "time_taken": 371.2124824523926, "prompt": "Never say never."}
+{"timestamp": "2025-05-12T11:42:43.739379", "message": "request race finished", "time_taken": 251.99580192565918, "prompt": "Opposites attract."}
+{"timestamp": "2025-05-12T11:42:44.076637", "message": "request race finished", "time_taken": 336.84325218200684, "prompt": "Practice makes perfect."}
+{"timestamp": "2025-05-12T11:42:44.439426", "message": "request race finished", "time_taken": 362.40100860595703, "prompt": "Quitters never win, and winner..."}
+{"timestamp": "2025-05-12T11:42:44.742606", "message": "request race finished", "time_taken": 302.72936820983887, "prompt": "Roses are red, violets are blu..."}
+{"timestamp": "2025-05-12T11:42:45.118494", "message": "request race finished", "time_taken": 375.43535232543945, "prompt": "Still waters run deep."}
+{"timestamp": "2025-05-12T11:42:45.512108", "message": "request race finished", "time_taken": 393.2623863220215, "prompt": "The customer is always right."}
+{"timestamp": "2025-05-12T11:42:45.956932", "message": "request race finished", "time_taken": 444.4460868835449, "prompt": "Two heads are better than one."}
+{"timestamp": "2025-05-12T11:42:46.239296", "message": "request race finished", "time_taken": 281.9664478302002, "prompt": "Until proven guilty."}
+{"timestamp": "2025-05-12T11:42:46.631555", "message": "request race finished", "time_taken": 391.8042182922363, "prompt": "Vision without action is a day..."}
+{"timestamp": "2025-05-12T11:42:46.989697", "message": "request race finished", "time_taken": 357.78212547302246, "prompt": "Where there's smoke, there's f..."}
+{"timestamp": "2025-05-12T11:42:47.340990", "message": "request race finished", "time_taken": 350.83866119384766, "prompt": "Xenodochial: Hospitable."}
+{"timestamp": "2025-05-12T11:42:47.795428", "message": "request race finished", "time_taken": 454.103946685791, "prompt": "You only live once."}
+{"timestamp": "2025-05-12T11:42:48.210779", "message": "request race finished", "time_taken": 415.13586044311523, "prompt": "Zealousness can be dangerous."}
+{"timestamp": "2025-05-12T11:42:48.481739", "message": "request race finished", "time_taken": 270.43986320495605, "prompt": "A watched pot never boils."}
+{"timestamp": "2025-05-12T11:42:48.820112", "message": "request race finished", "time_taken": 338.17434310913086, "prompt": "Birds of a feather flock toget..."}
+{"timestamp": "2025-05-12T11:42:49.161690", "message": "request race finished", "time_taken": 341.0756587982178, "prompt": "Curiosity killed the cat."}
+{"timestamp": "2025-05-12T11:42:49.475236", "message": "request race finished", "time_taken": 313.1754398345947, "prompt": "Diamonds are a girl's best fri..."}
+{"timestamp": "2025-05-12T11:42:49.959783", "message": "request race finished", "time_taken": 484.1954708099365, "prompt": "Every cloud has a silver linin..."}
+{"timestamp": "2025-05-12T11:42:50.272684", "message": "request race finished", "time_taken": 312.5286102294922, "prompt": "Forgive and forget."}
+{"timestamp": "2025-05-12T11:42:50.706033", "message": "request race finished", "time_taken": 432.8434467315674, "prompt": "Good things come to those who ..."}
+{"timestamp": "2025-05-12T11:42:51.052211", "message": "request race finished", "time_taken": 345.8106517791748, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:42:51.493660", "message": "request race finished", "time_taken": 441.25914573669434, "prompt": "If you can't beat them, join t..."}
+{"timestamp": "2025-05-12T11:42:51.909848", "message": "request race finished", "time_taken": 415.7600402832031, "prompt": "Just do it."}
+{"timestamp": "2025-05-12T11:42:52.333738", "message": "request race finished", "time_taken": 423.3224391937256, "prompt": "Keep calm and carry on."}
+{"timestamp": "2025-05-12T11:42:52.759324", "message": "request race finished", "time_taken": 425.19187927246094, "prompt": "Live and let live."}
+{"timestamp": "2025-05-12T11:42:53.317463", "message": "request race finished", "time_taken": 557.6608180999756, "prompt": "Money doesn't grow on trees."}
+{"timestamp": "2025-05-12T11:42:53.674019", "message": "request race finished", "time_taken": 356.1420440673828, "prompt": "Never give up."}
+{"timestamp": "2025-05-12T11:42:53.984853", "message": "request race finished", "time_taken": 310.2762699127197, "prompt": "One good turn deserves another..."}
+{"timestamp": "2025-05-12T11:42:54.371078", "message": "request race finished", "time_taken": 385.7111930847168, "prompt": "Practice what you preach."}
+{"timestamp": "2025-05-12T11:42:54.635547", "message": "request race finished", "time_taken": 264.06002044677734, "prompt": "Quiet as a mouse."}
+{"timestamp": "2025-05-12T11:42:55.035482", "message": "request race finished", "time_taken": 399.5201587677002, "prompt": "Reach for the stars."}
+{"timestamp": "2025-05-12T11:42:55.378630", "message": "request race finished", "time_taken": 342.94819831848145, "prompt": "Slow and steady wins the race."}
+{"timestamp": "2025-05-12T11:42:55.745742", "message": "request race finished", "time_taken": 366.67394638061523, "prompt": "Time is money."}
+{"timestamp": "2025-05-12T11:42:56.054305", "message": "request race finished", "time_taken": 308.17532539367676, "prompt": "Under promise and over deliver..."}
+{"timestamp": "2025-05-12T11:42:56.284585", "message": "request race finished", "time_taken": 229.99882698059082, "prompt": "Variety is the spice of life."}
+{"timestamp": "2025-05-12T11:42:56.587246", "message": "request race finished", "time_taken": 302.17576026916504, "prompt": "When it rains, it pours."}
+{"timestamp": "2025-05-12T11:42:56.940799", "message": "request race finished", "time_taken": 353.12747955322266, "prompt": "X marks the spot."}
+{"timestamp": "2025-05-12T11:42:57.202038", "message": "request race finished", "time_taken": 260.8494758605957, "prompt": "You can't judge a book by its ..."}
+{"timestamp": "2025-05-12T11:42:57.712969", "message": "request race finished", "time_taken": 510.51902770996094, "prompt": "Zero defects."}
+{"timestamp": "2025-05-12T11:42:58.058390", "message": "request race finished", "time_taken": 345.0655937194824, "prompt": "Actions speak louder than word..."}
+{"timestamp": "2025-05-12T11:42:58.468863", "message": "request race finished", "time_taken": 410.13288497924805, "prompt": "Better late than never."}
+{"timestamp": "2025-05-12T11:42:58.848129", "message": "request race finished", "time_taken": 378.9858818054199, "prompt": "Cross that bridge when you com..."}
+{"timestamp": "2025-05-12T11:42:59.148797", "message": "request race finished", "time_taken": 300.22573471069336, "prompt": "Don't count your chickens befo..."}
+{"timestamp": "2025-05-12T11:42:59.475851", "message": "request race finished", "time_taken": 326.69568061828613, "prompt": "Easy come, easy go."}
+{"timestamp": "2025-05-12T11:42:59.928936", "message": "request race finished", "time_taken": 452.59952545166016, "prompt": "Every dog has his day."}
+{"timestamp": "2025-05-12T11:43:00.279418", "message": "request race finished", "time_taken": 350.299596786499, "prompt": "Faint heart never won fair lad..."}
+{"timestamp": "2025-05-12T11:43:00.596060", "message": "request race finished", "time_taken": 316.44725799560547, "prompt": "Give credit where credit is du..."}
+{"timestamp": "2025-05-12T11:43:00.912048", "message": "request race finished", "time_taken": 315.6571388244629, "prompt": "Hope for the best, prepare for..."}
+{"timestamp": "2025-05-12T11:43:01.201397", "message": "request race finished", "time_taken": 288.98000717163086, "prompt": "If the shoe fits, wear it."}
+{"timestamp": "2025-05-12T11:43:01.740601", "message": "request race finished", "time_taken": 538.7463569641113, "prompt": "Judge not, lest ye be judged."}
+{"timestamp": "2025-05-12T11:43:02.100822", "message": "request race finished", "time_taken": 360.0046634674072, "prompt": "Kill them with kindness."}
+{"timestamp": "2025-05-12T11:43:02.415335", "message": "request race finished", "time_taken": 314.3124580383301, "prompt": "Look before you leap."}
+{"timestamp": "2025-05-12T11:43:02.721174", "message": "request race finished", "time_taken": 305.5431842803955, "prompt": "Make the best of a bad situati..."}
+{"timestamp": "2025-05-12T11:43:03.004448", "message": "request race finished", "time_taken": 282.8683853149414, "prompt": "Never burn your bridges."}
+{"timestamp": "2025-05-12T11:43:03.403040", "message": "request race finished", "time_taken": 398.34141731262207, "prompt": "Once bitten, twice shy."}
+{"timestamp": "2025-05-12T11:43:03.698113", "message": "request race finished", "time_taken": 294.85011100769043, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:43:04.083074", "message": "request race finished", "time_taken": 384.6392631530762, "prompt": "Quit while you're ahead."}
+{"timestamp": "2025-05-12T11:43:04.498031", "message": "request race finished", "time_taken": 414.49618339538574, "prompt": "Rome wasn't built in a day."}
+{"timestamp": "2025-05-12T11:43:04.870652", "message": "request race finished", "time_taken": 372.2729682922363, "prompt": "Silence is golden."}
+{"timestamp": "2025-05-12T11:43:05.243915", "message": "request race finished", "time_taken": 372.88856506347656, "prompt": "The best things in life are fr..."}
+{"timestamp": "2025-05-12T11:43:05.754732", "message": "request race finished", "time_taken": 510.4043483734131, "prompt": "Two wrongs don't make a right."}
+{"timestamp": "2025-05-12T11:43:06.347082", "message": "request race finished", "time_taken": 591.9344425201416, "prompt": "Use your head."}
+{"timestamp": "2025-05-12T11:43:06.699063", "message": "request race finished", "time_taken": 351.7923355102539, "prompt": "Virtue is its own reward."}
+{"timestamp": "2025-05-12T11:43:07.039155", "message": "request race finished", "time_taken": 339.6115303039551, "prompt": "What goes around comes around."}
+{"timestamp": "2025-05-12T11:43:07.337688", "message": "request race finished", "time_taken": 298.1452941894531, "prompt": "Xenophobia is the fear of stra..."}
+{"timestamp": "2025-05-12T11:43:07.704084", "message": "request race finished", "time_taken": 366.05358123779297, "prompt": "You can't please everyone."}
+{"timestamp": "2025-05-12T11:43:08.021763", "message": "request race finished", "time_taken": 317.30055809020996, "prompt": "Zeal without knowledge is fire..."}
+{"timestamp": "2025-05-12T11:43:08.394186", "message": "request race finished", "time_taken": 372.2198009490967, "prompt": "A penny saved is a penny earne..."}
+{"timestamp": "2025-05-12T11:43:08.828360", "message": "request race finished", "time_taken": 433.69388580322266, "prompt": "Actions speak louder than word..."}
+{"timestamp": "2025-05-12T11:43:09.213194", "message": "request race finished", "time_taken": 384.5207691192627, "prompt": "All that glitters is not gold."}
+{"timestamp": "2025-05-12T11:43:09.615841", "message": "request race finished", "time_taken": 402.2247791290283, "prompt": "An apple a day keeps the docto..."}
+{"timestamp": "2025-05-12T11:43:09.869148", "message": "request race finished", "time_taken": 252.94995307922363, "prompt": "As you sow, so shall you reap."}
+{"timestamp": "2025-05-12T11:43:10.129655", "message": "request race finished", "time_taken": 260.09297370910645, "prompt": "Bad company corrupts good char..."}
+{"timestamp": "2025-05-12T11:43:10.423982", "message": "request race finished", "time_taken": 294.0716743469238, "prompt": "Be slow to promise and quick t..."}
+{"timestamp": "2025-05-12T11:43:11.617719", "message": "request race finished", "time_taken": 1193.2923793792725, "prompt": "Beauty is only skin deep."}
+{"timestamp": "2025-05-12T11:43:12.029928", "message": "request race finished", "time_taken": 411.8025302886963, "prompt": "Beggars can't be choosers."}
+{"timestamp": "2025-05-12T11:43:12.428849", "message": "request race finished", "time_taken": 398.47350120544434, "prompt": "Better late than never."}
+{"timestamp": "2025-05-12T11:43:12.924587", "message": "request race finished", "time_taken": 495.4724311828613, "prompt": "Birds of a feather flock toget..."}
+{"timestamp": "2025-05-12T11:43:13.414153", "message": "request race finished", "time_taken": 489.34268951416016, "prompt": "Blood is thicker than water."}
+{"timestamp": "2025-05-12T11:43:13.709029", "message": "request race finished", "time_taken": 294.67296600341797, "prompt": "Charity begins at home."}
+{"timestamp": "2025-05-12T11:43:14.336782", "message": "request race finished", "time_taken": 627.387285232544, "prompt": "Cleanliness is next to godline..."}
+{"timestamp": "2025-05-12T11:43:14.689373", "message": "request race finished", "time_taken": 352.3983955383301, "prompt": "Clothes do not make the man."}
+{"timestamp": "2025-05-12T11:43:15.036185", "message": "request race finished", "time_taken": 346.2965488433838, "prompt": "Curiosity killed the cat."}
+{"timestamp": "2025-05-12T11:43:15.275056", "message": "request race finished", "time_taken": 238.67297172546387, "prompt": "Discretion is the better part ..."}
+{"timestamp": "2025-05-12T11:43:15.753062", "message": "request race finished", "time_taken": 477.7977466583252, "prompt": "Do as I say, not as I do."}
+{"timestamp": "2025-05-12T11:43:16.097003", "message": "request race finished", "time_taken": 343.6884880065918, "prompt": "Don't bite the hand that feeds..."}
+{"timestamp": "2025-05-12T11:43:16.649377", "message": "request race finished", "time_taken": 506.40392303466797, "prompt": "Don't count your chickens befo..."}
+{"timestamp": "2025-05-12T11:43:17.060700", "message": "request race finished", "time_taken": 411.0422134399414, "prompt": "Don't look a gift horse in the..."}
+{"timestamp": "2025-05-12T11:43:17.436760", "message": "request race finished", "time_taken": 375.64826011657715, "prompt": "Early to bed, early to rise, m..."}
+{"timestamp": "2025-05-12T11:43:17.823619", "message": "request race finished", "time_taken": 386.56044006347656, "prompt": "Easy come, easy go."}
+{"timestamp": "2025-05-12T11:43:18.224467", "message": "request race finished", "time_taken": 400.6643295288086, "prompt": "Empty vessels make the most no..."}
+{"timestamp": "2025-05-12T11:43:18.500589", "message": "request race finished", "time_taken": 275.90274810791016, "prompt": "Every cloud has a silver linin..."}
+{"timestamp": "2025-05-12T11:43:18.956438", "message": "request race finished", "time_taken": 455.63721656799316, "prompt": "Every dog has his day."}
+{"timestamp": "2025-05-12T11:43:19.331789", "message": "request race finished", "time_taken": 374.89962577819824, "prompt": "Everything comes to him who wa..."}
+{"timestamp": "2025-05-12T11:43:19.765329", "message": "request race finished", "time_taken": 433.15720558166504, "prompt": "Faint heart never won fair lad..."}
+{"timestamp": "2025-05-12T11:43:20.431973", "message": "request race finished", "time_taken": 666.2890911102295, "prompt": "Fools rush in where angels fea..."}
+{"timestamp": "2025-05-12T11:43:20.758554", "message": "request race finished", "time_taken": 326.2290954589844, "prompt": "Forewarned is forearmed."}
+{"timestamp": "2025-05-12T11:43:21.152294", "message": "request race finished", "time_taken": 393.5434818267822, "prompt": "God helps those who help thems..."}
+{"timestamp": "2025-05-12T11:43:21.442059", "message": "request race finished", "time_taken": 289.34502601623535, "prompt": "Good things come to those who ..."}
+{"timestamp": "2025-05-12T11:43:21.754027", "message": "request race finished", "time_taken": 311.54656410217285, "prompt": "Great oaks from little acorns ..."}
+{"timestamp": "2025-05-12T11:43:22.217278", "message": "request race finished", "time_taken": 462.8274440765381, "prompt": "Handsome is as handsome does."}
+{"timestamp": "2025-05-12T11:43:22.683550", "message": "request race finished", "time_taken": 465.8479690551758, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:43:23.086674", "message": "request race finished", "time_taken": 402.6637077331543, "prompt": "He who laughs last laughs best..."}
+{"timestamp": "2025-05-12T11:43:23.410548", "message": "request race finished", "time_taken": 323.58312606811523, "prompt": "Honesty is the best policy."}
+{"timestamp": "2025-05-12T11:43:23.812035", "message": "request race finished", "time_taken": 401.2422561645508, "prompt": "Hope for the best, but prepare..."}
+{"timestamp": "2025-05-12T11:43:24.268735", "message": "request race finished", "time_taken": 456.32410049438477, "prompt": "If it ain't broke, don't fix i..."}
+{"timestamp": "2025-05-12T11:43:24.552787", "message": "request race finished", "time_taken": 283.73265266418457, "prompt": "If you want a thing done well,..."}
+{"timestamp": "2025-05-12T11:43:25.023807", "message": "request race finished", "time_taken": 470.5986976623535, "prompt": "Imitation is the sincerest for..."}
+{"timestamp": "2025-05-12T11:43:25.341331", "message": "request race finished", "time_taken": 317.12961196899414, "prompt": "In unity there is strength."}
+{"timestamp": "2025-05-12T11:43:25.706513", "message": "request race finished", "time_taken": 364.9790287017822, "prompt": "It is better to give than to r..."}
+{"timestamp": "2025-05-12T11:43:26.116690", "message": "request race finished", "time_taken": 409.7926616668701, "prompt": "It is never too late to learn."}
+{"timestamp": "2025-05-12T11:43:26.420137", "message": "request race finished", "time_taken": 302.9825687408447, "prompt": "It takes two to tango."}
+{"timestamp": "2025-05-12T11:43:27.066292", "message": "request race finished", "time_taken": 645.8110809326172, "prompt": "Judge not, lest ye be judged."}
+{"timestamp": "2025-05-12T11:43:27.363114", "message": "request race finished", "time_taken": 296.42462730407715, "prompt": "Keep your friends close, but y..."}
+{"timestamp": "2025-05-12T11:43:27.735067", "message": "request race finished", "time_taken": 371.5364933013916, "prompt": "Kill two birds with one stone."}
+{"timestamp": "2025-05-12T11:43:28.082884", "message": "request race finished", "time_taken": 347.41830825805664, "prompt": "Knowledge is power."}
+{"timestamp": "2025-05-12T11:43:28.416814", "message": "request race finished", "time_taken": 333.5137367248535, "prompt": "Learn to walk before you run."}
+{"timestamp": "2025-05-12T11:43:28.668155", "message": "request race finished", "time_taken": 250.93340873718262, "prompt": "Least said, soonest mended."}
+{"timestamp": "2025-05-12T11:43:28.973945", "message": "request race finished", "time_taken": 305.36437034606934, "prompt": "Let bygones be bygones."}
+{"timestamp": "2025-05-12T11:43:29.266112", "message": "request race finished", "time_taken": 291.7599678039551, "prompt": "Let sleeping dogs lie."}
+{"timestamp": "2025-05-12T11:43:29.860107", "message": "request race finished", "time_taken": 593.5561656951904, "prompt": "Like father, like son."}
+{"timestamp": "2025-05-12T11:43:30.278789", "message": "request race finished", "time_taken": 418.2300567626953, "prompt": "Little strokes fell great oaks..."}
+{"timestamp": "2025-05-12T11:43:30.555983", "message": "request race finished", "time_taken": 276.9804000854492, "prompt": "Look before you leap."}
+{"timestamp": "2025-05-12T11:43:30.968821", "message": "request race finished", "time_taken": 412.17708587646484, "prompt": "Love is blind."}
+{"timestamp": "2025-05-12T11:43:31.354888", "message": "request race finished", "time_taken": 385.85519790649414, "prompt": "Make hay while the sun shines."}
+{"timestamp": "2025-05-12T11:43:31.606421", "message": "request race finished", "time_taken": 251.18732452392578, "prompt": "Man proposes, God disposes."}
+{"timestamp": "2025-05-12T11:43:31.988365", "message": "request race finished", "time_taken": 381.74939155578613, "prompt": "Many hands make light work."}
+{"timestamp": "2025-05-12T11:43:32.292490", "message": "request race finished", "time_taken": 303.9262294769287, "prompt": "Marry in haste, repent at leis..."}
+{"timestamp": "2025-05-12T11:43:32.611743", "message": "request race finished", "time_taken": 318.65572929382324, "prompt": "Might is right."}
+{"timestamp": "2025-05-12T11:43:33.063833", "message": "request race finished", "time_taken": 451.88331604003906, "prompt": "Misery loves company."}
+{"timestamp": "2025-05-12T11:43:33.502166", "message": "request race finished", "time_taken": 437.98089027404785, "prompt": "Money doesn't grow on trees."}
+{"timestamp": "2025-05-12T11:43:33.755813", "message": "request race finished", "time_taken": 253.21722030639648, "prompt": "More haste, less speed."}
+{"timestamp": "2025-05-12T11:43:34.091552", "message": "request race finished", "time_taken": 335.3157043457031, "prompt": "Necessity is the mother of inv..."}
+{"timestamp": "2025-05-12T11:43:34.447733", "message": "request race finished", "time_taken": 355.76510429382324, "prompt": "Never judge a book by its cove..."}
+{"timestamp": "2025-05-12T11:43:34.823134", "message": "request race finished", "time_taken": 374.94897842407227, "prompt": "Never look a gift horse in the..."}
+{"timestamp": "2025-05-12T11:43:35.173302", "message": "request race finished", "time_taken": 349.7335910797119, "prompt": "No news is good news."}
+{"timestamp": "2025-05-12T11:43:35.493473", "message": "request race finished", "time_taken": 319.8103904724121, "prompt": "No pain, no gain."}
+{"timestamp": "2025-05-12T11:43:35.815414", "message": "request race finished", "time_taken": 321.5656280517578, "prompt": "Nothing ventured, nothing gain..."}
+{"timestamp": "2025-05-12T11:43:36.078910", "message": "request race finished", "time_taken": 263.0431652069092, "prompt": "Old habits die hard."}
+{"timestamp": "2025-05-12T11:43:36.426980", "message": "request race finished", "time_taken": 347.6831912994385, "prompt": "Once bitten, twice shy."}
+{"timestamp": "2025-05-12T11:43:36.700696", "message": "request race finished", "time_taken": 273.26440811157227, "prompt": "One good turn deserves another..."}
+{"timestamp": "2025-05-12T11:43:37.034425", "message": "request race finished", "time_taken": 333.3568572998047, "prompt": "Out of sight, out of mind."}
+{"timestamp": "2025-05-12T11:43:37.329521", "message": "request race finished", "time_taken": 294.6610450744629, "prompt": "Practice makes perfect."}
+{"timestamp": "2025-05-12T11:43:37.623870", "message": "request race finished", "time_taken": 293.9743995666504, "prompt": "Pride comes before a fall."}
+{"timestamp": "2025-05-12T11:43:37.885860", "message": "request race finished", "time_taken": 261.56091690063477, "prompt": "Put all your eggs in one baske..."}
+{"timestamp": "2025-05-12T11:43:38.168099", "message": "request race finished", "time_taken": 282.03701972961426, "prompt": "Rome wasn't built in a day."}
+{"timestamp": "2025-05-12T11:43:38.526997", "message": "request race finished", "time_taken": 358.4268093109131, "prompt": "See no evil, hear no evil, spe..."}
+{"timestamp": "2025-05-12T11:43:38.863474", "message": "request race finished", "time_taken": 336.09557151794434, "prompt": "Silence is golden."}
+{"timestamp": "2025-05-12T11:43:39.213086", "message": "request race finished", "time_taken": 349.41959381103516, "prompt": "Still waters run deep."}
+{"timestamp": "2025-05-12T11:43:39.546232", "message": "request race finished", "time_taken": 332.7195644378662, "prompt": "Strike while the iron is hot."}
+{"timestamp": "2025-05-12T11:43:39.911165", "message": "request race finished", "time_taken": 364.4559383392334, "prompt": "The best things in life are fr..."}
+{"timestamp": "2025-05-12T11:43:40.292319", "message": "request race finished", "time_taken": 380.9351921081543, "prompt": "The early bird catches the wor..."}
+{"timestamp": "2025-05-12T11:43:40.560083", "message": "request race finished", "time_taken": 267.56811141967773, "prompt": "The end justifies the means."}
+{"timestamp": "2025-05-12T11:43:40.828081", "message": "request race finished", "time_taken": 267.58670806884766, "prompt": "The grass is always greener on..."}
+{"timestamp": "2025-05-12T11:43:41.227690", "message": "request race finished", "time_taken": 399.22189712524414, "prompt": "The pen is mightier than the s..."}
+{"timestamp": "2025-05-12T11:43:41.597670", "message": "request race finished", "time_taken": 369.5197105407715, "prompt": "There's no such thing as a fre..."}
+{"timestamp": "2025-05-12T11:43:42.262888", "message": "request race finished", "time_taken": 664.7646427154541, "prompt": "Time heals all wounds."}
+{"timestamp": "2025-05-12T11:43:42.635219", "message": "request race finished", "time_taken": 372.07770347595215, "prompt": "Too many cooks spoil the broth..."}
+{"timestamp": "2025-05-12T11:43:42.974915", "message": "request race finished", "time_taken": 339.2901420593262, "prompt": "Treat others as you want to be..."}
+{"timestamp": "2025-05-12T11:43:43.298720", "message": "request race finished", "time_taken": 323.37379455566406, "prompt": "Truth will out."}
+{"timestamp": "2025-05-12T11:43:43.603158", "message": "request race finished", "time_taken": 304.20589447021484, "prompt": "Two wrongs don't make a right."}
+{"timestamp": "2025-05-12T11:43:43.971278", "message": "request race finished", "time_taken": 367.6648139953613, "prompt": "United we stand, divided we fa..."}
+{"timestamp": "2025-05-12T11:43:44.217594", "message": "request race finished", "time_taken": 245.93687057495117, "prompt": "Variety is the spice of life."}
+{"timestamp": "2025-05-12T11:43:44.622874", "message": "request race finished", "time_taken": 405.08484840393066, "prompt": "Virtue is its own reward."}
+{"timestamp": "2025-05-12T11:43:45.025867", "message": "request race finished", "time_taken": 402.56452560424805, "prompt": "Walls have ears."}
+{"timestamp": "2025-05-12T11:43:45.403113", "message": "request race finished", "time_taken": 376.875638961792, "prompt": "Waste not, want not."}
+{"timestamp": "2025-05-12T11:43:45.741357", "message": "request race finished", "time_taken": 337.77666091918945, "prompt": "What goes around comes around."}
+{"timestamp": "2025-05-12T11:43:46.060460", "message": "request race finished", "time_taken": 318.8934326171875, "prompt": "When in Rome, do as the Romans..."}
+{"timestamp": "2025-05-12T11:43:46.430675", "message": "request race finished", "time_taken": 369.7981834411621, "prompt": "Where there's a will, there's ..."}
+{"timestamp": "2025-05-12T11:43:47.528202", "message": "request race finished", "time_taken": 1097.2764492034912, "prompt": "While there's life, there's ho..."}
+{"timestamp": "2025-05-12T11:43:48.017879", "message": "request race finished", "time_taken": 489.3662929534912, "prompt": "You can lead a horse to water,..."}
+{"timestamp": "2025-05-12T11:43:48.367945", "message": "request race finished", "time_taken": 349.8713970184326, "prompt": "You can't have your cake and e..."}
+{"timestamp": "2025-05-12T11:43:48.707070", "message": "request race finished", "time_taken": 338.9239311218262, "prompt": "You scratch my back, and I'll ..."}
+{"timestamp": "2025-05-12T11:43:49.087444", "message": "request race finished", "time_taken": 379.93597984313965, "prompt": "A bad workman blames his tools..."}
+{"timestamp": "2025-05-12T11:43:49.478048", "message": "request race finished", "time_taken": 390.20562171936035, "prompt": "A bird in the hand is worth tw..."}
+{"timestamp": "2025-05-12T11:43:49.960498", "message": "request race finished", "time_taken": 481.98771476745605, "prompt": "A chain is only as strong as i..."}
+{"timestamp": "2025-05-12T11:43:50.246907", "message": "request race finished", "time_taken": 286.027193069458, "prompt": "A fool and his money are soon ..."}
+{"timestamp": "2025-05-12T11:43:50.602402", "message": "request race finished", "time_taken": 355.27563095092773, "prompt": "A leopard can't change its spo..."}
+{"timestamp": "2025-05-12T11:43:51.016113", "message": "request race finished", "time_taken": 413.3877754211426, "prompt": "A penny saved is a penny earne..."}
+{"timestamp": "2025-05-12T11:43:51.460659", "message": "request race finished", "time_taken": 444.216251373291, "prompt": "A picture is worth a thousand ..."}
+{"timestamp": "2025-05-12T11:43:51.758108", "message": "request race finished", "time_taken": 297.0888614654541, "prompt": "A rolling stone gathers no mos..."}
+{"timestamp": "2025-05-12T11:43:52.039923", "message": "request race finished", "time_taken": 281.39376640319824, "prompt": "A stitch in time saves nine."}
+{"timestamp": "2025-05-12T11:43:52.303852", "message": "request race finished", "time_taken": 263.5917663574219, "prompt": "Absence makes the heart grow f..."}
+{"timestamp": "2025-05-12T11:43:52.771024", "message": "request race finished", "time_taken": 466.7322635650635, "prompt": "Adversity introduces a man to ..."}
+{"timestamp": "2025-05-12T11:43:53.445879", "message": "request race finished", "time_taken": 674.5612621307373, "prompt": "All good things must come to a..."}
+{"timestamp": "2025-05-12T11:43:53.806320", "message": "request race finished", "time_taken": 360.0451946258545, "prompt": "All that glitters is not gold."}
+{"timestamp": "2025-05-12T11:43:54.169131", "message": "request race finished", "time_taken": 362.3237609863281, "prompt": "An ounce of prevention is wort..."}
+{"timestamp": "2025-05-12T11:43:54.473154", "message": "request race finished", "time_taken": 303.54809761047363, "prompt": "As you make your bed, so you m..."}
+{"timestamp": "2025-05-12T11:43:54.714779", "message": "request race finished", "time_taken": 241.36829376220703, "prompt": "Barking dogs seldom bite."}
+{"timestamp": "2025-05-12T11:43:55.010418", "message": "request race finished", "time_taken": 295.26805877685547, "prompt": "Beauty is in the eye of the be..."}
+{"timestamp": "2025-05-12T11:43:55.260565", "message": "request race finished", "time_taken": 249.82190132141113, "prompt": "Better a little fire to warm u..."}
+{"timestamp": "2025-05-12T11:43:55.653005", "message": "request race finished", "time_taken": 392.2281265258789, "prompt": "Better safe than sorry."}
+{"timestamp": "2025-05-12T11:43:56.169993", "message": "request race finished", "time_taken": 516.573429107666, "prompt": "Better to have loved and lost,..."}
+{"timestamp": "2025-05-12T11:43:56.572429", "message": "request race finished", "time_taken": 402.0044803619385, "prompt": "Comparisons are odious."}
+{"timestamp": "2025-05-12T11:43:56.870038", "message": "request race finished", "time_taken": 297.15847969055176, "prompt": "Do unto others as you would ha..."}
+{"timestamp": "2025-05-12T11:43:57.319771", "message": "request race finished", "time_taken": 449.36323165893555, "prompt": "Don't burn your bridges."}
+{"timestamp": "2025-05-12T11:43:57.715728", "message": "request race finished", "time_taken": 395.69592475891113, "prompt": "Don't cast pearls before swine..."}
+{"timestamp": "2025-05-12T11:43:58.094882", "message": "request race finished", "time_taken": 378.7193298339844, "prompt": "Don't change horses in midstre..."}
+{"timestamp": "2025-05-12T11:43:58.390058", "message": "request race finished", "time_taken": 294.8763370513916, "prompt": "Don't cross the bridge until y..."}
+{"timestamp": "2025-05-12T11:43:58.790798", "message": "request race finished", "time_taken": 400.33698081970215, "prompt": "Don't put all your eggs in one..."}
+{"timestamp": "2025-05-12T11:43:59.135127", "message": "request race finished", "time_taken": 343.89567375183105, "prompt": "Every dog has his day."}
+{"timestamp": "2025-05-12T11:43:59.537941", "message": "request race finished", "time_taken": 402.62699127197266, "prompt": "Familiarity breeds contempt."}
+{"timestamp": "2025-05-12T11:44:00.121273", "message": "request race finished", "time_taken": 583.0988883972168, "prompt": "Great minds think alike."}
+{"timestamp": "2025-05-12T11:44:00.491122", "message": "request race finished", "time_taken": 369.5502281188965, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:44:00.956998", "message": "request race finished", "time_taken": 465.5189514160156, "prompt": "Ignorance is bliss."}
+{"timestamp": "2025-05-12T11:44:01.326837", "message": "request race finished", "time_taken": 369.4324493408203, "prompt": "If you lie down with dogs, you..."}
+{"timestamp": "2025-05-12T11:44:01.687515", "message": "request race finished", "time_taken": 360.4931831359863, "prompt": "It's always darkest before the..."}
+{"timestamp": "2025-05-12T11:44:02.032316", "message": "request race finished", "time_taken": 344.41089630126953, "prompt": "Kill two birds with one stone."}
+{"timestamp": "2025-05-12T11:44:02.282776", "message": "request race finished", "time_taken": 250.1075267791748, "prompt": "Let sleeping dogs lie."}
+{"timestamp": "2025-05-12T11:44:02.642487", "message": "request race finished", "time_taken": 359.2991828918457, "prompt": "Like father, like son."}
+{"timestamp": "2025-05-12T11:44:03.015699", "message": "request race finished", "time_taken": 372.76387214660645, "prompt": "Many hands make light work."}
+{"timestamp": "2025-05-12T11:44:03.365683", "message": "request race finished", "time_taken": 349.61509704589844, "prompt": "No news is good news."}
+{"timestamp": "2025-05-12T11:44:03.837137", "message": "request race finished", "time_taken": 471.16637229919434, "prompt": "Opportunity knocks but once."}
+{"timestamp": "2025-05-12T11:44:04.176750", "message": "request race finished", "time_taken": 339.24150466918945, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:44:04.434927", "message": "request race finished", "time_taken": 257.76100158691406, "prompt": "The squeaky wheel gets the gre..."}
+{"timestamp": "2025-05-12T11:44:04.772462", "message": "request race finished", "time_taken": 337.31579780578613, "prompt": "Truth will out."}
+{"timestamp": "2025-05-12T11:44:05.035226", "message": "request race finished", "time_taken": 262.55345344543457, "prompt": "What goes around comes around."}
+{"timestamp": "2025-05-12T11:44:05.625977", "message": "request race finished", "time_taken": 590.5044078826904, "prompt": "You scratch my back, and I'll ..."}
+{"timestamp": "2025-05-12T11:44:05.885977", "message": "request race finished", "time_taken": 259.7019672393799, "prompt": "A bird in the hand is worth tw..."}
+{"timestamp": "2025-05-12T11:44:06.315296", "message": "request race finished", "time_taken": 429.0275573730469, "prompt": "Better to have loved and lost,..."}
+{"timestamp": "2025-05-12T11:44:06.650638", "message": "request race finished", "time_taken": 334.93494987487793, "prompt": "Comparisons are odious."}
+{"timestamp": "2025-05-12T11:44:06.914775", "message": "request race finished", "time_taken": 263.8735771179199, "prompt": "Do unto others as you would ha..."}
+{"timestamp": "2025-05-12T11:44:07.344105", "message": "request race finished", "time_taken": 429.13031578063965, "prompt": "Every dog has his day."}
+{"timestamp": "2025-05-12T11:44:07.710676", "message": "request race finished", "time_taken": 366.3749694824219, "prompt": "First come, first served."}
+{"timestamp": "2025-05-12T11:44:08.023836", "message": "request race finished", "time_taken": 312.969446182251, "prompt": "Good things come to those who ..."}
+{"timestamp": "2025-05-12T11:44:08.272920", "message": "request race finished", "time_taken": 248.84462356567383, "prompt": "He who hesitates is lost."}
+{"timestamp": "2025-05-12T11:44:08.617757", "message": "request race finished", "time_taken": 344.4862365722656, "prompt": "It's always darkest before the..."}
+{"timestamp": "2025-05-12T11:44:08.889410", "message": "request race finished", "time_taken": 271.45910263061523, "prompt": "Let sleeping dogs lie."}
+{"timestamp": "2025-05-12T11:44:09.267647", "message": "request race finished", "time_taken": 378.0496120452881, "prompt": "Many hands make light work."}
+{"timestamp": "2025-05-12T11:44:09.567622", "message": "request race finished", "time_taken": 299.78466033935547, "prompt": "Nothing ventured, nothing gain..."}
+{"timestamp": "2025-05-12T11:44:10.072124", "message": "request race finished", "time_taken": 504.2767524719238, "prompt": "Out of the frying pan, into th..."}
+{"timestamp": "2025-05-12T11:44:10.398880", "message": "request race finished", "time_taken": 326.57575607299805, "prompt": "Put your best foot forward."}
+{"timestamp": "2025-05-12T11:44:10.738862", "message": "request race finished", "time_taken": 339.7836685180664, "prompt": "The pen is mightier than the s..."}
+{"timestamp": "2025-05-12T11:44:11.109615", "message": "request race finished", "time_taken": 370.3756332397461, "prompt": "Where there's a will, there's ..."}
+{"timestamp": "2025-05-12T11:44:11.416046", "message": "request race finished", "time_taken": 306.00571632385254, "prompt": "Absence makes the heart grow f..."}
+{"timestamp": "2025-05-12T11:44:11.690804", "message": "request race finished", "time_taken": 274.52802658081055, "prompt": "Beauty is in the eye of the be..."}
+{"timestamp": "2025-05-12T11:44:12.009442", "message": "request race finished", "time_taken": 318.2084560394287, "prompt": "Curiosity killed the cat."}
+{"timestamp": "2025-05-12T11:44:12.359217", "message": "request race finished", "time_taken": 349.5004177093506, "prompt": "Don't put all your eggs in one..."}
+{"timestamp": "2025-05-12T11:44:12.745882", "message": "request race finished", "time_taken": 386.24119758605957, "prompt": "Familiarity breeds contempt."}
+{"timestamp": "2025-05-12T11:44:13.114116", "message": "request race finished", "time_taken": 367.9487705230713, "prompt": "Great minds think alike."}
+{"timestamp": "2025-05-12T11:44:13.534788", "message": "request race finished", "time_taken": 420.29547691345215, "prompt": "Haste makes waste."}
+{"timestamp": "2025-05-12T11:44:13.838788", "message": "request race finished", "time_taken": 303.59792709350586, "prompt": "Ignorance is bliss."}
+{"timestamp": "2025-05-12T11:44:16.418595", "message": "request race finished", "time_taken": 2579.324960708618, "prompt": "Kill two birds with one stone."}
+{"timestamp": "2025-05-12T11:44:16.824290", "message": "request race finished", "time_taken": 405.3056240081787, "prompt": "Like father, like son."}
+{"timestamp": "2025-05-12T11:44:17.350061", "message": "request race finished", "time_taken": 525.5048274993896, "prompt": "Misery loves company."}
+{"timestamp": "2025-05-12T11:44:17.723325", "message": "request race finished", "time_taken": 372.9994297027588, "prompt": "No news is good news."}
+{"timestamp": "2025-05-12T11:44:18.277693", "message": "request race finished", "time_taken": 553.9138317108154, "prompt": "Opportunity knocks but once."}
+{"timestamp": "2025-05-12T11:44:18.662015", "message": "request race finished", "time_taken": 383.87060165405273, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:44:19.054934", "message": "request race finished", "time_taken": 392.52281188964844, "prompt": "Judge not, lest ye be judged."}
+{"timestamp": "2025-05-12T11:44:19.411849", "message": "request race finished", "time_taken": 356.49681091308594, "prompt": "Kill them with kindness."}
+{"timestamp": "2025-05-12T11:44:19.710814", "message": "request race finished", "time_taken": 298.5856533050537, "prompt": "Look before you leap."}
+{"timestamp": "2025-05-12T11:44:20.055282", "message": "request race finished", "time_taken": 344.0585136413574, "prompt": "Make the best of a bad situati..."}
+{"timestamp": "2025-05-12T11:44:20.367793", "message": "request race finished", "time_taken": 312.0696544647217, "prompt": "Never burn your bridges."}
+{"timestamp": "2025-05-12T11:44:20.730569", "message": "request race finished", "time_taken": 362.4732494354248, "prompt": "Once bitten, twice shy."}
+{"timestamp": "2025-05-12T11:44:21.353854", "message": "request race finished", "time_taken": 622.875452041626, "prompt": "Patience is a virtue."}
+{"timestamp": "2025-05-12T11:44:21.709646", "message": "request race finished", "time_taken": 355.3605079650879, "prompt": "Quit while you're ahead."}
+{"timestamp": "2025-05-12T11:44:22.253557", "message": "request race finished", "time_taken": 543.4660911560059, "prompt": "Rome wasn't built in a day."}
+{"timestamp": "2025-05-12T11:44:22.631658", "message": "request race finished", "time_taken": 377.8412342071533, "prompt": "Silence is golden."}
+{"timestamp": "2025-05-12T11:44:23.000079", "message": "request race finished", "time_taken": 368.22986602783203, "prompt": "The best things in life are fr..."}
+{"timestamp": "2025-05-12T11:44:23.368775", "message": "request race finished", "time_taken": 368.25084686279297, "prompt": "Two wrongs don't make a right."}
+{"timestamp": "2025-05-12T11:44:23.800606", "message": "request race finished", "time_taken": 431.3852787017822, "prompt": "Use your head."}
+{"timestamp": "2025-05-12T11:44:24.146333", "message": "request race finished", "time_taken": 345.51167488098145, "prompt": "Virtue is its own reward."}
+{"timestamp": "2025-05-12T11:44:24.490884", "message": "request race finished", "time_taken": 344.1452980041504, "prompt": "What goes around comes around."}
+{"timestamp": "2025-05-12T11:44:24.877191", "message": "request race finished", "time_taken": 385.67066192626953, "prompt": "Xenophobia is the fear of stra..."}
+{"timestamp": "2025-05-12T11:44:25.264484", "message": "request race finished", "time_taken": 387.0997428894043, "prompt": "You can't please everyone."}
+{"timestamp": "2025-05-12T11:44:25.663807", "message": "request race finished", "time_taken": 398.9255428314209, "prompt": "Pepi without knowledge is a ru..."}

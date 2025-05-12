@@ -20,8 +20,8 @@ Testing against the OpenAI API (`gpt-4o-mini` model) with a set of prompts (`tes
 
 **Sample Latency Statistics (TTFB focus, n=2 requests):**
 
-- **Direct requests:** Count: 93, Mean: 498.47ms, Median: 411.27ms
-- **Proxy requests:** Count: 93, Mean: 405.13ms, Median: 378.58ms
+- **Direct requests:** Count: 426, Mean: 531.46ms, Median: 406.68ms
+- **Proxy requests:** Count: 426, Mean: 381.08ms, Median: 355.66ms
 
 This shows a noticeable reduction in both mean and median latency when using the proxy for TTFB-sensitive scenarios.
 
